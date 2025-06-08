@@ -54,7 +54,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-primary-600 to-accent-500 rounded-3xl transform rotate-6"></div>
               <div className="relative bg-white rounded-3xl p-8 shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+                  src="/src/assets/6257240.jpg"
                   alt="Manish Varma - Growth Engineer"
                   className="w-full h-80 object-cover rounded-2xl mb-6"
                 />

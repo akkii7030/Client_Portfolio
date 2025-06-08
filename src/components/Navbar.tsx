@@ -34,15 +34,15 @@ const Navbar = () => {
           <div className="flex items-center space-x-3 group">
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-amber-400 to-orange-500 rounded-xl blur-sm opacity-75 group-hover:opacity-100 transition-opacity duration-300"></div>
-              <div className="relative w-12 h-12 bg-gradient-to-r from-amber-500 to-orange-600 rounded-xl flex items-center justify-center transform group-hover:scale-110 transition-transform duration-300">
+              {/* <div className="relative w-12 h-12 bg-gradient-to-r from-amber-500 to-orange-600 rounded-xl flex items-center justify-center transform group-hover:scale-110 transition-transform duration-300">
                 <TrendingUp className="h-7 w-7 text-white" />
-              </div>
+              </div> */}
             </div>
             <div className="flex flex-col">
               <span className="text-2xl font-bold bg-gradient-to-r from-amber-400 via-orange-500 to-amber-400 bg-clip-text text-transparent">
                 Manish Varma
               </span>
-              <span className="text-xs text-amber-400 font-medium tracking-wider">GROWTH ENGINEER</span>
+              {/* <span className="text-xs text-amber-400 font-medium tracking-wider">GROWTH ENGINEER</span> */}
             </div>
           </div>
 
